@@ -51,5 +51,4 @@ python lecture-2-unsupervised/recommender.py
 
 ## About
 
-10th grade student. Started programming at 11.
-These projects are built to understand the math, not just run the code.
+Pure Python implementations of core AI/ML algorithms from scratch — Q-Learning, perceptron, K-Means, and recommender systems. No ML libraries. Just the math.
