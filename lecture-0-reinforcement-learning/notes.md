@@ -73,20 +73,6 @@ Running many iterations of the environment to let the agent practice. The agent 
 
 ---
 
-## Vocabulary from This Lecture
-
-| English | Meaning |
-|---|---|
-| Navigate | حرکت کردن — finding a path through an environment |
-| Obstacle | مانع — something blocking the path |
-| Punishment | جریمه — negative reward for a bad action |
-| Direction | جهت — which way to move |
-| Approach | رویکرد — the method or strategy used |
-| Simulation | شبیه‌سازی — running the environment repeatedly |
-| Evaluation | ارزیابی — scoring how good a state is |
-
----
-
 ## Key Takeaways
 
 1. **RL agents learn from experience, not labels.** There's no dataset — the agent generates its own training data by interacting with the environment.
