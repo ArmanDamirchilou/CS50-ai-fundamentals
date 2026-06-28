@@ -93,18 +93,20 @@ Running many iterations of the environment to let the agent practice. The agent 
 
 ---
 
-## Project Built from This Lecture
+## Projects Built from This Lecture
 
-**Maze Solver using Q-Learning** → `maze_qlearning.py`
-
+**Maze Solver** → `maze_qlearning.py`
 An agent learns to navigate from start to finish in a maze, avoiding walls and obstacles. No hardcoded path — it discovers the optimal route purely through trial and error.
+
+**Nim AI** → `nim_qlearning.py`
+Trains by playing 10,000 games against itself. After training, it almost never loses against a human player.
 
 ---
 
 ## Source
 
-Lecture: CS50x — Introduction to Artificial Intelligence
+Course: Fundamentals of Artificial Intelligence
 
-Instructor: David J. Malan & Brian Yu
+Instructors: Brian Yu & David J. Malan — Harvard UniversityYu
 
 Video: https://www.youtube.com/watch?v=kQ3K7Y4AQcs&list=PLJPcEQXX4i60VGmCvt1TZsprC7IGdHMpn
