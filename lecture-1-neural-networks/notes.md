@@ -162,3 +162,13 @@ weighted sum: (4×1) + (5×2) + 3 = 4 + 10 + 3 = 17
 
 `perceptron.py` — single perceptron from scratch, no libraries.
 Trains on synthetic weather data, shows loss curve, outputs learned weights.
+
+---
+
+## Source
+
+Lecture: CS50x — Introduction to Artificial Intelligence
+
+Instructor: David J. Malan
+
+Video: https://www.youtube.com/watch?v=oHuvUkMPffI&list=PLJPcEQXX4i60VGmCvt1TZsprC7IGdHMpn&index=2
