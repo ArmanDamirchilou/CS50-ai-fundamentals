@@ -148,3 +148,13 @@ Recommend based on what similar people liked:
 
 - `kmeans.py` — K-Means from scratch with ASCII visualization showing clusters forming
 - `recommender.py` — Content-based + collaborative filtering on a movie dataset
+
+---
+
+## Source
+
+Course: Fundamentals of Artificial Intelligence
+
+Instructors: Brian Yu & David J. Malan — Harvard University
+
+Video: https://www.youtube.com/watch?v=VjH6g63OsME&list=PLJPcEQXX4i60VGmCvt1TZsprC7IGdHMpn&index=3
