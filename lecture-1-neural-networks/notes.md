@@ -167,8 +167,8 @@ Trains on synthetic weather data, shows loss curve, outputs learned weights.
 
 ## Source
 
-Lecture: CS50x — Introduction to Artificial Intelligence
+Course: Fundamentals of Artificial Intelligence
 
-Instructor: David J. Malan & Brian Yu
+Instructors: Brian Yu & David J. Malan — Harvard University
 
 Video: https://www.youtube.com/watch?v=oHuvUkMPffI&list=PLJPcEQXX4i60VGmCvt1TZsprC7IGdHMpn&index=2
