@@ -104,5 +104,7 @@ An agent learns to navigate from start to finish in a maze, avoiding walls and o
 ## Source
 
 Lecture: CS50x — Introduction to Artificial Intelligence
-Instructor: David J. Malan
+
+Instructor: David J. Malan & Brian Yu
+
 Video: https://www.youtube.com/watch?v=kQ3K7Y4AQcs&list=PLJPcEQXX4i60VGmCvt1TZsprC7IGdHMpn
