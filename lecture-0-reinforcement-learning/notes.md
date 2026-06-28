@@ -99,3 +99,10 @@ Running many iterations of the environment to let the agent practice. The agent 
 
 An agent learns to navigate from start to finish in a maze, avoiding walls and obstacles. No hardcoded path — it discovers the optimal route purely through trial and error.
 
+---
+
+## Source
+
+Lecture: CS50x — Introduction to Artificial Intelligence
+Instructor: David J. Malan
+Video: https://www.youtube.com/watch?v=kQ3K7Y4AQcs&list=PLJPcEQXX4i60VGmCvt1TZsprC7IGdHMpn
